@@ -1,4 +1,3 @@
-# Problem-Solving
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
