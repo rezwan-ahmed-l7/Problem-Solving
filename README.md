@@ -1,5 +1,4 @@
 # Problem-Solving
-- Platforms
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
