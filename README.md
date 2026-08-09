@@ -63,6 +63,7 @@ The section below is updated automatically whenever new problems are solved.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rezwan-ahmed-l7/Problem-Solving/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/rezwan-ahmed-l7/Problem-Solving/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rezwan-ahmed-l7/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ The section below is updated automatically whenever new problems are solved.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rezwan-ahmed-l7/Problem-Solving/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/rezwan-ahmed-l7/Problem-Solving/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
